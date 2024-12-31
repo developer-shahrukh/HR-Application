@@ -1,6 +1,6 @@
-import com.thinking.machines.hr.bl.interfaces.managers.*;
-import com.thinking.machines.hr.bl.managers.*;
-import com.thinking.machines.hr.bl.exceptions.*;
+import com.shahrukh.mansuri.hr.bl.interfaces.managers.*;
+import com.shahrukh.mansuri.hr.bl.managers.*;
+import com.shahrukh.mansuri.hr.bl.exceptions.*;
 import java.util.*;
 class DesignationManagerGetDesignationCountTestCase
 {

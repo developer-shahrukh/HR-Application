@@ -1,8 +1,8 @@
-import com.thinking.machines.hr.bl.interfaces.managers.*;
-import com.thinking.machines.hr.bl.interfaces.pojo.*;
-import com.thinking.machines.hr.bl.exceptions.*;
-import com.thinking.machines.hr.bl.pojo.*;
-import com.thinking.machines.hr.bl.managers.*;
+import com.shahrukh.mansuri.hr.bl.interfaces.managers.*;
+import com.shahrukh.mansuri.hr.bl.interfaces.pojo.*;
+import com.shahrukh.mansuri.hr.bl.exceptions.*;
+import com.shahrukh.mansuri.hr.bl.pojo.*;
+import com.shahrukh.mansuri.hr.bl.managers.*;
 import java.util.*;
 class DesignationManagerGetDesignationByTitleTestCase
 {

@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
-import com.thinking.machines.hr.pl.model.*;
-import com.thinking.machines.hr.bl.exceptions.*;
+import com.shahrukh.mansuri.hr.pl.model.*;
+import com.shahrukh.mansuri.hr.bl.exceptions.*;
 class DesignationModelTestCase extends JFrame
 {
 private JTable tb;
